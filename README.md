@@ -1,5 +1,6 @@
-RevoCam
-An open-source 360˚ photogrammetry capture system
+# RevoCam
+
+_An open-source 360˚ photogrammetry capture system_
 
 Motion Photogrammetry for Surveying
 ============================================
